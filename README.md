@@ -2,7 +2,7 @@
 
 A Web Browser made by Aslo Software (Debarka Kundu)
 
-This project is based on VB
+This project is based on Visual Basic (VB)
 
 Current Version is 0.0.6
 
