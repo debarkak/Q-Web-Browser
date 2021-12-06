@@ -8,7 +8,7 @@ Current Version is 0.0.6
 
 Change Log in 0.0.6:
 1. Added Some New Buttons
-2. Added Calender
+2. Added Calendar
 
 Change Log in 0.0.1:
 Nothing
