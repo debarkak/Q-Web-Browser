@@ -1,6 +1,6 @@
 # Q-Web-Browser
 
-A Web Browser made by Aslo Software (Debarka Kundu)
+Yeah I made a web browser some time 2 years ago, here is my old README.md
 
 This project is based on Visual Basic (VB) and .Net Framework 3.5
 
